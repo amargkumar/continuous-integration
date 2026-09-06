@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/amargkumar/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/amargkumar/continuous-integration/actions?query=workflow%3Atests](https://github.com/amargkumar/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/amargkumar/cmc-csci046) course and [CSCI143: Big Data](https://github.com/amargkumar/cmc-csci143) course.*
 
@@ -194,11 +194,11 @@ In particular,
 the first line of the file currently contains the text
 
 ```
-# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/amargkumar/continuous-integration/actions?query=workflow%3Atests](https://github.com/amargkumar/continuous-integration/workflows/tests/badge.svg)
 ```
 
 To fix this problem and get the correct badge,
-you need to modify the `README.md` so that the URL contains your username instead of `mikeizbicki`.
+you need to modify the `README.md` so that the URL contains your username instead of `amargkumar`.
 After doing so, add the file to git, commit the file, and push your changes to github.
 
 Now view your forked repo in your web browser.
@@ -217,7 +217,7 @@ You should see a green badge instead of a red badge if you made all of the chang
 To submit this assignment, you will paste the URL to your github repo into canvas.
 The URL should be of the format
 ```
-https://github.com/mikeizbicki/continuous-integration
+https://github.com/amargkumar/continuous-integration
 ```
 but with your github username instead of mine.
 
